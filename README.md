@@ -1,5 +1,6 @@
 # Stress-Level-Identifying-Expert-System-CLIPS
 # Undergraduate Stress Management Expert System
+#Logic Programming & Artificial Cognitive Systems Assignment
 
 This expert system is designed to assist undergraduate students in identifying and managing stress effectively. It utilizes decision tree logic to evaluate multiple factors contributing to stress levels and provides tailored suggestions for stress reduction.
 
